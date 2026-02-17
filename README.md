@@ -19,3 +19,11 @@ This project visualizes sales data using line charts and monthly aggregation.
 
 ## ▶ How to Run
 python project1_charts.py
+
+## 📈 Sample Output
+
+### Sales Over Time
+![Sales Over Time](sales_over_time.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales.png)
